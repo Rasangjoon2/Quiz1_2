@@ -8,3 +8,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Rasangjoon2)](https://github.com/Rasangjoon2)
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Rasangjoon2&show_icons=true&theme=radical)](https://github.com/Rasangjoon2)
